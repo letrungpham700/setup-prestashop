@@ -1,5 +1,5 @@
 # PrestaShop
-![System](https://github.com/letrungpham700/setup-prestashop/assets/53925226/879849c4-7d03-450c-97e0-b03285649b4b)
+![PrestaShop Ubuntu](https://github.com/letrungpham700/setup-prestashop/assets/53925226/2921a65b-127a-4082-bcf0-92acf3f53f69)
 ## PrestaShop là gì???
 PrestaShop – Giải pháp website thương mại điện tử cho cá nhân và doanh nghiệp với những chức năng đầy đủ và hoàn thiện nhất của một website 2.0 chuyên nghiệp bán hàng trực tuyến e-Commerce shopping cart.
 Được phát triển từ năm 2005, trước đây PrestaShop khá ít tên tuổi, do phát hành chủ yếu với phiên bản tiếng Pháp. Nhưng thời gian gần đây, với những cải tiến vượt bậc, PrestaShop đã trở thành mã nguồn mở khá phổ biến.
