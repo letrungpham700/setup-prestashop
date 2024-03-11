@@ -6,7 +6,7 @@ PrestaShop – Giải pháp website thương mại điện tử cho cá nhân v�
 Với ưu thế về mã nguồn phát triển sau, PrestaShop kế thừa được nhiều ý tưởng của các mã nguồn cùng loại đi trước như OsCommerce. Điểm làm lên khác biệt chủ yếu là việc Prestashop tích hợp sẵn thư viện trình bày sản phẩm theo màu sắc. Tính năng này giúp chủ cửa hàng tiếp cận tốt hơn với các khách hàng của họ.
 Ngoài ra, việc tích hợp trực tiếp trang quản lý thông tin vào mã nguồn, cũng giúp PrestaShop trở nên thân thiện hơn với người sử dụng.
 
-### Ưu điểm chính
+### Ưu vs Khuyết điểm
 - Đầy đủ các chức năng của một website bán hàng trực tuyến: thêm, sửa, xóa, thống kê sản phẩm, nhà sản xuất, nhà phân phối, khách hàng ,…
 - Theo dõi tình trạng bán hàng, thông báo cho khách hàng bằng tin nhắn sms, thu thập thông tin khách hàng,…
 - Áp dụng được nhiều phương thức thanh toán khác nhau với các đơn vị tiền tệ lưu hành phổ biến.
@@ -24,16 +24,15 @@ Mặc dù được tích hợp rất nhiều chức năng như vậy, nhưng Pre
 - Thuật toán tìn kiếm của PrestaShop được đánh giá là khá yếu so với các Opensource khác.
 - Kiến trúc Extensions hỗ trợ cho bên thứ 3 tự phát triển khá yếu
 
-### Giải thuởng
-PrestaShop giành giải Open Source Business Applications Award của Packt Publishing: Open Source Award của Packt Publishing là một trong những giải thưởng uy tín và danh giá bậc nhất dành cho các mã nguồn mở. Giải do nhà xuất bản sách Packt trao thưởng hàng năm, dựa trên bình chọn của người sử dụng, lập trình viên, và các chuyên gia uy tín trong lĩnh vực mã nguồn mở bình chọn.
-Trong hạng mục mã nguồn mở ứng dụng cho kinh doanh, mã nguồn mở PrestaShop đã có những bước tiến vượt bậc khi vươn lên giành giải thưởng quan trọng này. Vượt qua những tên tuổi nổi tiếng khác như OsCommerce,Zencart, hay OpenCart, PrestaShop bất ngờ dành chiến thắng giải thưởng danh giá này.
+> PrestaShop giành giải Open Source Business Applications Award của Packt Publishing: Open Source Award của Packt Publishing là một trong những giải thưởng uy tín và danh giá bậc nhất dành cho các mã nguồn mở. Giải do nhà xuất bản sách Packt trao thưởng hàng năm, dựa trên bình chọn của người sử dụng, lập trình viên, và các chuyên gia uy tín trong lĩnh vực mã nguồn mở bình chọn.
+> Trong hạng mục mã nguồn mở ứng dụng cho kinh doanh, mã nguồn mở PrestaShop đã có những bước tiến vượt bậc khi vươn lên giành giải thưởng quan trọng này. Vượt qua những tên tuổi nổi tiếng khác như OsCommerce,Zencart, hay OpenCart, PrestaShop bất ngờ dành chiến thắng giải thưởng danh giá này.
 
 ## Yêu cầu hệ thống
 - System: Unix, Linux, or Windows.
-- Database: MySQL(5.6 or later.), MariaDB, ...
-- Web server: Nginx 1.0 (or later)
+- Database: MySQL 5.6+ (MySQL, MariaDB, Percona Server, etc.).
+- Web server: Apache2 or Nginx 1.0 (or later)
 - PHP: 7.1 or later.
-- Server RAM: At least 256MBof RAM.
+- Server RAM: At least 256MB of RAM.
 
 ## Các bước thực hiện
 - [Step 1 - Configure Apache2](https://github.com/letrungpham700/setup-prestashop/blob/main/docs/InstallApache.md)

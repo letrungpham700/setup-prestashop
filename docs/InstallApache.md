@@ -3,9 +3,10 @@
 
 ```bash
 sudo apt update
+sudo apt install unzip -y
 ```
 
-Install the Apache web server using the following apt command. When prompted to confirm the installation, input Y to accept and press ENTER.
+Install the Apache web server using the following apt command. When prompted to confirm the installation, input `Y` to accept and press `ENTER`.
 
 ```bash
 sudo apt install apache2 -y
