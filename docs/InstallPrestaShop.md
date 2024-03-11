@@ -56,3 +56,5 @@ systemctl restart apache2
 ```
 
 ## Access PrestaShop Web UI
+
+<img src="https://imgur.com/fiqzwIi">

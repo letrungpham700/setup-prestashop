@@ -36,11 +36,11 @@ Trong hạng mục mã nguồn mở ứng dụng cho kinh doanh, mã nguồn m�
 - Server RAM: At least 256MBof RAM.
 
 
-[Step 1 - Create a MySQL Database]()
-[Step 2 – Install and Configuring PHP]()
-[Step 3 - Download PrestaShop]()
-[Step 4 - Configure Nginx]()
-[Step 5 - Install PrestaShop]()
+- [Step 1 - Configure Apache2](https://github.com/letrungpham700/setup-prestashop/blob/main/docs/InstallApache.md)
+- [Step 2 - Create a MySQL Database](https://github.com/letrungpham700/setup-prestashop/blob/main/docs/CreateDatabase.md)
+- [Step 3 – Install and Configuring PHP](https://github.com/letrungpham700/setup-prestashop/blob/main/docs/InstallvsConfigPHP.md)
+- [Step 4 - Install PrestaShop](https://github.com/letrungpham700/setup-prestashop/blob/main/docs/InstallPrestaShop.md)
+
 
 
 
