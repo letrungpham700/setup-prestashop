@@ -57,4 +57,4 @@ systemctl restart apache2
 
 ## Access PrestaShop Web UI
 
-<img src="https://imgur.com/a/FvEs4vf">
+![386870925_1317019785871417_7112241725220906757_n](https://github.com/letrungpham700/setup-prestashop/assets/53925226/879849c4-7d03-450c-97e0-b03285649b4b)
