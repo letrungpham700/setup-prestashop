@@ -11,7 +11,20 @@ sudo apt install php php-common php-cli php-fpm php-opcache php-gd php-mysql php
 
 After installing all the packages, edit the php.ini file:
 ```bash
-nano /etc/php/7.4/apache2/php.ini
+vi /etc/php/8.1/apache2/php.ini
+```
+Change the following settings per your requirements:
+
+```bash
+memory_limit = 512M
+post_max_size = 32M
+upload_max_filesize = 32M
+date.timezone = Asia/Ho_Chi_Minh
+```
+
+Save and close the file, then restart the Apache service to apply the changes:
+```bash
+systemctl restart apache2
 ```
 
 2) After this installation process is complete, the PHP-FPM service will automatically start. You can verify it by typing:
